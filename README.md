@@ -1,2 +1,2 @@
-# image_detected
-Code to find the parts in the picture
+# image detected
+Simple example
